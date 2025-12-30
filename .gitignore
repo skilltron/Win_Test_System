@@ -1,0 +1,39 @@
+# Projects directory (cloned/copied projects)
+projects/
+
+# Adapted tests
+adapted_tests/
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
